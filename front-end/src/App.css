@@ -1,0 +1,40 @@
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background: #f9f9f9;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 8px 12px;
+    margin: 5px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+    button:hover {
+        background: #0056b3;
+    }
+
+.list {
+    margin-top: 20px;
+}
+
+.card {
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    background: white;
+}
